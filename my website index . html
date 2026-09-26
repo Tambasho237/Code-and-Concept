@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>TAMBASHO237<title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #111; color: #eee; text-align: center; padding: 50px; }
+    h1 { color: #4dd0e1; }
+    p { font-size: 18px; }
+  </style>
+</head>
+<body>
+  <h1>Hi, I'm Your Name 👋</h1>
+  <p>I'm learning to code and building projects here.</p>
+  <p>Follow my journey on <a href="https://github.com/Tambasho237" style="color:#4dd0e1;">GitHub</a>.</p>
+</body>
+</html>
